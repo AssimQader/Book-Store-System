@@ -1,0 +1,58 @@
+
+                                |THE BOOKS AVILABLE IN THE STORE |
+
+1) 
+ Book ID: 123
+ Title:  In Search of Lost Time
+ Author: Marcel Proust
+ Publisher: The Greatest Books
+ Price: 7$
+=============================
+2) 
+ Book ID: 124
+ Title:  Don Quixote
+ Author: Miguel de Cervantes
+ Publisher: Francisco de Robles
+ Price: 18$
+=============================
+3)
+ Book ID: 125
+ Title:  The Hunger Games
+ Author: Suzanne Collins
+ Publisher: Scholastic Press
+ Price: 60$
+=============================
+4)
+ Book ID: 126
+ Title:  Harry Potter and the Order of the Phoenix
+ Author:  J.K. Rowling
+ Publisher: Scholastic Press
+ Price: 29$
+=============================
+5)
+ Book ID: 127
+ Title: The Fault in Our Stars
+ Author: John Green
+ Publisher: Kazanova mce
+ Price: 44$
+=============================
+6)
+ Book ID: 128
+ Title: To Kill a Mockingbird
+ Author: Harper Lee
+ Publisher: García Márquez
+ Price: 12$
+=============================
+7)
+ Book ID: 129
+ Title: Moby Dick
+ Author: Herman Melville
+ Publisher: J. D. Salinger
+ Price: 27$
+=============================
+8)
+ Book ID: 130
+ Title:  Gone With the Wind 
+ Author: Margaret Mitchell
+ Publisher:  Wikipedia
+ Price: 100$
